@@ -1,0 +1,16 @@
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_NP_Socket_Server_Client\bin\Debug\net5.0\My_Classwork_NP_Socket_Server_Client.exe
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_NP_Socket_Server_Client\bin\Debug\net5.0\My_Classwork_NP_Socket_Server_Client.deps.json
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_NP_Socket_Server_Client\bin\Debug\net5.0\My_Classwork_NP_Socket_Server_Client.runtimeconfig.json
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_NP_Socket_Server_Client\bin\Debug\net5.0\My_Classwork_NP_Socket_Server_Client.runtimeconfig.dev.json
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_NP_Socket_Server_Client\bin\Debug\net5.0\My_Classwork_NP_Socket_Server_Client.dll
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_NP_Socket_Server_Client\bin\Debug\net5.0\ref\My_Classwork_NP_Socket_Server_Client.dll
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_NP_Socket_Server_Client\bin\Debug\net5.0\My_Classwork_NP_Socket_Server_Client.pdb
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_NP_Socket_Server_Client\obj\Debug\net5.0\My_Classwork_NP_Socket_Server_Client.csprojAssemblyReference.cache
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_NP_Socket_Server_Client\obj\Debug\net5.0\My_Classwork_NP_Socket_Server_Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_NP_Socket_Server_Client\obj\Debug\net5.0\My_Classwork_NP_Socket_Server_Client.AssemblyInfoInputs.cache
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_NP_Socket_Server_Client\obj\Debug\net5.0\My_Classwork_NP_Socket_Server_Client.AssemblyInfo.cs
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_NP_Socket_Server_Client\obj\Debug\net5.0\My_Classwork_NP_Socket_Server_Client.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_NP_Socket_Server_Client\obj\Debug\net5.0\My_Classwork_NP_Socket_Server_Client.dll
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_NP_Socket_Server_Client\obj\Debug\net5.0\ref\My_Classwork_NP_Socket_Server_Client.dll
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_NP_Socket_Server_Client\obj\Debug\net5.0\My_Classwork_NP_Socket_Server_Client.pdb
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_NP_Socket_Server_Client\obj\Debug\net5.0\My_Classwork_NP_Socket_Server_Client.genruntimeconfig.cache

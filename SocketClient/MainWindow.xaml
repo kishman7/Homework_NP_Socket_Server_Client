@@ -1,0 +1,26 @@
+﻿<Window x:Class="SocketClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SocketClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Label Content="Введіть назву міста"/>
+        <Border BorderBrush="Black" BorderThickness="1" Margin="5"
+                Width="250" HorizontalAlignment="Left">
+            <TextBox x:Name="text" 
+                     />
+        </Border>
+        <Button Click="Button_Click" Margin="5"
+                Width="250" HorizontalAlignment="Left">Вивести список вулиць</Button>
+        <Label>Список вулиць:</Label>
+        <DockPanel LastChildFill="True" Height="300">
+            <Border BorderBrush="Black" BorderThickness="1"
+                    Margin="5">
+                <Label x:Name="result" />
+            </Border>
+        </DockPanel>
+    </StackPanel>
+</Window>
