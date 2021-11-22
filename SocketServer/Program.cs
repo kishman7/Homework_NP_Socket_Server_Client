@@ -62,19 +62,19 @@ namespace SocketServer
                     //та відправляємо їх для клієнта
                     //var path = Path.Combine("f:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)" +
                     //    "\\Homework_NP_Socket_Server_Client1\\SocketServer\\Cities");
-                    var path = Path.Combine("F:\\..\\..\\..\\..\\..\\..\\Cities");
+                    //var path = Path.Combine("..\\..\\Cities\\");
                     //var path = Path.Combine(Directory.GetParent(Directory.GetParent(Directory.GetParent
                     //    (Environment.CurrentDirectory).FullName).FullName).FullName, "Сities"); //доступаємось до папки
-                    var dir = new DirectoryInfo(path); // папка с файлами 
+                    var dir = new DirectoryInfo("Сities/"); // папка с файлами 
 
                     foreach (FileInfo file in dir.GetFiles()) //перебираємо папку по файлам
                     {
-                        if (file.ToString() == data) //порівнюємо назву файла з запитом, який прийшов від клієнта
+                        if (string.Compare( Path.GetFileNameWithoutExtension(file.Name),  data, true)>=0) //порівнюємо назву файла з запитом, який прийшов від клієнта
                         {
-                            StreamReader f = new StreamReader( data + ".txt"); //відкриваємо файл
+                            StreamReader f = new StreamReader(file.FullName); //відкриваємо файл
                             while (!f.EndOfStream) //считуємо дані з файла
                             {
-                                string s = f.ReadLine(); //записуємо дані в рядок
+                                string s = f.ReadToEnd(); //записуємо дані в рядок
                                 client.Send(Encoding.UTF8.GetBytes(s)); //відправляємо дані клієнту
                             }
                             f.Close();

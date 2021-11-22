@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\\Homework_NP_Socket_Server_Client1\\SocketServer\\SocketServer.csproj": {}
+    "f:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\\Homework_NP_Socket_Server_Client\\SocketServer\\SocketServer.csproj": {}
   },
   "projects": {
-    "F:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\\Homework_NP_Socket_Server_Client1\\SocketServer\\SocketServer.csproj": {
+    "f:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\\Homework_NP_Socket_Server_Client\\SocketServer\\SocketServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\\Homework_NP_Socket_Server_Client1\\SocketServer\\SocketServer.csproj",
+        "projectUniqueName": "f:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\\Homework_NP_Socket_Server_Client\\SocketServer\\SocketServer.csproj",
         "projectName": "SocketServer",
-        "projectPath": "F:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\\Homework_NP_Socket_Server_Client1\\SocketServer\\SocketServer.csproj",
+        "projectPath": "f:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\\Homework_NP_Socket_Server_Client\\SocketServer\\SocketServer.csproj",
         "packagesPath": "C:\\Users\\DodUser\\.nuget\\packages\\",
-        "outputPath": "F:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\\Homework_NP_Socket_Server_Client1\\SocketServer\\obj\\",
+        "outputPath": "f:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\\Homework_NP_Socket_Server_Client\\SocketServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DodUser\\AppData\\Roaming\\NuGet\\NuGet.Config",

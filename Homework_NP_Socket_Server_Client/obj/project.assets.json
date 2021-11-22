@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "f:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\\Homework_NP_Socket_Server_Client1\\Homework_NP_Socket_Server_Client\\My_Classwork_NP_Socket_Server_Client.csproj",
+      "projectUniqueName": "f:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\\Homework_NP_Socket_Server_Client\\Homework_NP_Socket_Server_Client\\My_Classwork_NP_Socket_Server_Client.csproj",
       "projectName": "My_Classwork_NP_Socket_Server_Client",
-      "projectPath": "f:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\\Homework_NP_Socket_Server_Client1\\Homework_NP_Socket_Server_Client\\My_Classwork_NP_Socket_Server_Client.csproj",
+      "projectPath": "f:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\\Homework_NP_Socket_Server_Client\\Homework_NP_Socket_Server_Client\\My_Classwork_NP_Socket_Server_Client.csproj",
       "packagesPath": "C:\\Users\\DodUser\\.nuget\\packages\\",
-      "outputPath": "f:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\\Homework_NP_Socket_Server_Client1\\Homework_NP_Socket_Server_Client\\obj\\",
+      "outputPath": "f:\\YURKO\\SHAG\\Project C#\\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\\Homework_NP_Socket_Server_Client\\Homework_NP_Socket_Server_Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DodUser\\AppData\\Roaming\\NuGet\\NuGet.Config",

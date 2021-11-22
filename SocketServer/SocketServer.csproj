@@ -5,4 +5,24 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Сities\Dnipro.txt" />
+    <None Remove="Сities\Kyiv.txt" />
+    <None Remove="Сities\Lviv.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Сities\Dnipro.txt" />
+    <Resource Include="Сities\Kyiv.txt" />
+    <Resource Include="Сities\Lviv.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Сities\Poltava.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
